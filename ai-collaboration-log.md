@@ -90,7 +90,7 @@ Verification (`gh issue list`): 11 of 11 issues present, no duplicates, no title
 | [ready-done-agreements.md](ready-done-agreements.md) | Created: Definition of Ready and Done, board column meanings |
 | ai-collaboration-log.md | Created: decisions for every phase, plus this summary |
 
-These files are local only. They are not committed or pushed to GitHub yet.
+Committed and pushed to `main` on 2026-10-02 after PM request ("let's just push it").
 
 ## GitHub issues created
 
@@ -143,4 +143,4 @@ These files are local only. They are not committed or pushed to GitHub yet.
 - Did not create issues or touch the board until the PM said "yes" each time.
 - Did not add labels or separate epic issues (proposed, PM kept it simple).
 - Did not fill in the PM's reasons in this log.
-- Did not commit or push the local files to GitHub.
+- Committed and pushed the files only after the PM asked.
